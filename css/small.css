@@ -42,7 +42,7 @@ main {
     padding: 1rem 2%;
     display: block;
 }
-main h1 {color:goldenrod}
+main h1 {color:goldenrod;}
 
 main figure img {width: 100%;}
 main figure {
